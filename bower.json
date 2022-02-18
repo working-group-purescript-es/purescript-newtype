@@ -17,7 +17,7 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-prelude": "^5.0.0",
-    "purescript-safe-coerce": "^1.0.0"
+    "purescript-prelude": "https://github.com/working-group-purescript-es/purescript-prelude.git#es-modules",
+    "purescript-safe-coerce": "https://github.com/working-group-purescript-es/purescript-safe-coerce.git#es-modules"
   }
 }
